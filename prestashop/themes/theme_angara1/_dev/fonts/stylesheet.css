@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'futurab';
+  src: url('unicode.futurab.eot'); /* IE9 Compat Modes */
+  src: url('unicode.futurab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('unicode.futurab.woff') format('woff'), /* Modern Browsers */
+       url('unicode.futurab.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('unicode.futurab.svg#unicode.futurab') format('svg'); /* Legacy iOS */	
+	   font-style:normal;
+	   font-weight:700;    
+}
+@font-face {
+  font-family: 'Futura';
+  src: url('Futura_Medium_BT.eot'); /* IE9 Compat Modes */
+  src: url('Futura_Medium_BT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Futura_Medium_BT.woff') format('woff'), /* Modern Browsers */
+       url('Futura_Medium_BT.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Futura_Medium_BT.svg#Futura_Medium_BT') format('svg'); /* Legacy iOS */	
+	   font-style:normal;
+	   font-weight:600;    
+}
+ 
+ 
